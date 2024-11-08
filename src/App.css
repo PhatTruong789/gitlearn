@@ -6,7 +6,7 @@
 }
 
 .logo {
-  display : flex;
+  display : grid;
   height: 6em;
   padding: 1.5em;
   will-change: filter;
